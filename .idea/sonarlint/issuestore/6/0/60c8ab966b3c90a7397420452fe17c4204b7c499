@@ -1,0 +1,8 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(å¿²’8«ÊòÑ¨2
+˜
+java:S1130"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(å¿²’8¬’‚Ò¨2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø¿âÿÿÿÿÿ8Ùå¹Ğ¨2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‹Ä²øÿÿÿÿ8Úå¹Ğ¨2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ïßş8Ûå¹Ğ¨2

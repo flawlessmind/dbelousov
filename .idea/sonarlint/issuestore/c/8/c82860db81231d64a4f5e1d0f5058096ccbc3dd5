@@ -1,0 +1,11 @@
+
+¢
+java:S2681B"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(çæ›Óúÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ëôƒÿÿÿÿÿ
+b
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+V	java:S125"<This block of commented-out lines of code should be removed.(ºÂ” øÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Ù¯Í¾
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(å½¢ó
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Î“ê”
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(Œæƒ×ıÿÿÿÿ
