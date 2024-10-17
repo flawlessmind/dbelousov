@@ -7,7 +7,7 @@ public enum EnergyType
     WATER,
     LIGHTING,
     PSYCHIC,
-    FIGHTING,
+    FIGHTNING,
     DARKNESS,
     METAL,
     FAIRY,
